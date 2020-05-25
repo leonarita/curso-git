@@ -1,3 +1,5 @@
 git remote add origin <site>
 git remote rm origin
 git push -u origin master
+git status
+git log
