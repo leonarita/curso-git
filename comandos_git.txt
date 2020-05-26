@@ -3,3 +3,6 @@ git remote rm origin
 git push -u origin master
 git status
 git log
+
+git branch
+git branch <nomeBranch>
