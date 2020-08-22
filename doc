@@ -1,2 +1,5 @@
 print("hello mundo")
+<<<<<<< HEAD
 print("ola mundo")
+=======
+>>>>>>> f19d247dfed003f43020e21b9c7d28e4fd58ba40
